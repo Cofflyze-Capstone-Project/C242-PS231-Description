@@ -34,7 +34,7 @@ These features collectively ensure that Cofflyze provides a user-friendly, secur
 
 ## Mobile Development
 * Featured Technologies
-- Android Studio Bady Bug | 2024.2.1 Patch 1
+- Android Studio Lady Bug | 2024.2.1 Patch 1
 - JRE (Java Runtime Environment) or JDK (Java Development Kit).
 
 ## Cloud Computing
